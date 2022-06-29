@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oce9c31o7tc4kdar?svg=true)](https://ci.appveyor.com/project/KateMila/app-cardselenide)
